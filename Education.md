@@ -13,3 +13,6 @@ main_nav: true
 <b> The University of Texas at Austin - McCombs School of Business </b> <br> Master of Science in Information Technology and Management 
 <br> 2019-2020
 <!-- </td></tr></table>  -->
+![alt text]({{ site.baseurl }}/assets/UT.JPG "McCombs")
+<b> The University of Texas at Austin - McCombs School of Business </b> <br> Master of Science in Information Technology and Management 
+<br> 2019-2020
